@@ -1,0 +1,5 @@
+*.o
+*.app
+moc_*
+Makefile
+*.user*
